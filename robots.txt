@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qita002.github.io/academic-homepage/sitemap.xml
